@@ -1,0 +1,145 @@
+body{
+    background-color: rgb(240, 240, 240);
+    overflow: hidden;
+}
+
+.card1{
+    background-color: rgb(255, 255, 255);
+    width: 18vw;
+    height: 340px;
+    border-radius: 6%;
+    display: inline-block;
+    margin: 15px;
+    transition: transform 0.4s cubic-bezier(0.25, 0.1, 0.25, 1);
+    
+}
+
+
+.card2{
+    background-color: rgb(255, 255, 255);
+    width: 18vw;
+    height: 340px;
+    border-radius: 6%;
+    display: inline-block;
+    transition: transform 0.4s cubic-bezier(0.25, 0.1, 0.25, 1);
+    
+}
+
+
+.card3{
+    background-color: rgb(255, 255, 255);
+    width: 18vw;
+    height: 340px;
+    border-radius: 6%;
+    display: inline-block;
+    margin: 15px;
+    transition: transform 0.4s cubic-bezier(0.25, 0.1, 0.25, 1);
+    
+}
+
+
+.card4{
+    background-color: rgb(255, 255, 255);
+    width: 18vw;
+    height: 340px;
+    border-radius: 6%;
+    display: inline-block;
+    margin: 15px;
+    transition: transform 0.4s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+
+.card5{
+    background-color: rgb(255, 255, 255);
+    width: 18vw;
+    height: 340px;
+    border-radius: 6%;
+    display: inline-block;
+    transition: transform 0.4s cubic-bezier(0.25, 0.1, 0.25, 1);
+    
+}
+
+.card6{
+    background-color: rgb(255, 255, 255);
+    width: 18vw;
+    height: 340px;
+    border-radius: 6%;
+    display: inline-block;
+    margin: 15px;
+    transition: transform 0.4s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+div{
+    position: relative;
+    top:22vh
+
+}
+
+.text1{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    font-style: normal;
+    position: relative;
+    left: 4vw;
+    bottom: 22vh;
+    font-weight: 700;
+    
+}
+
+.text2{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 13px;
+    font-style: normal;
+    position: relative;
+    left: 4vw;
+    bottom: 22vh;
+    font-weight: 400;
+    color: rgb(109, 109, 109);
+}
+
+img{
+    width: 18vw;
+}
+
+.day{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 30px;
+    font-style: normal;
+    position: relative;
+    left: 1vw;
+    bottom: 11.5vh;
+    font-weight: bold;
+    
+}
+
+.month{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 13px;
+    font-style: normal;
+    position: relative;
+    left: 1.1vw;
+    bottom: 19.5vh;
+    font-weight: bold;
+    color: rgb(98, 49, 211);
+}
+
+.sect1{
+    position: relative;
+    left: 19vw;
+}
+
+.sect2{
+    position: relative;
+    left: 19vw;
+    bottom: 9vh;
+}
+
+form:hover{
+    cursor:pointer;
+    transform: scale(0.9);
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.548);
+}
